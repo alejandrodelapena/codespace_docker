@@ -18,14 +18,6 @@ Docker es una plataforma de contenedores que permite empaquetar una aplicación 
 - Docker instalado ([Guía oficial](https://docs.docker.com/get-docker/))
 - (Opcional) Docker Compose si no estás usando Docker Desktop
 
-## 🧪 Cómo usar este repositorio
-
-Clona el repositorio:
-
-```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-cd nombre-del-repositorio
-
 ## 📚 Recursos útiles
 Documentación oficial de Docker
 
@@ -35,3 +27,11 @@ Docker Hub: Repositorio de imágenes Docker
 
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, abre un issue o haz un pull request con sugerencias o mejoras.
+
+## 🧪 Cómo usar este repositorio
+
+Clona el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+cd nombre-del-repositorio
