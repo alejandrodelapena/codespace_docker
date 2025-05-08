@@ -19,11 +19,11 @@ Docker es una plataforma de contenedores que permite empaquetar una aplicación 
 - (Opcional) Docker Compose si no estás usando Docker Desktop
 
 ## 📚 Recursos útiles
-Documentación oficial de Docker
+[Documentación oficial de Docker](https://docs.docker.com/)
 
-Play with Docker: Entorno online para practicar
+[Play with Docker:](https://labs.play-with-docker.com/) Entorno online para practicar
 
-Docker Hub: Repositorio de imágenes Docker
+[Docker Hub:](https://hub.docker.com/) Repositorio de imágenes Docker
 
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, abre un issue o haz un pull request con sugerencias o mejoras.
